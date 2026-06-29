@@ -1,0 +1,1 @@
+CONNECT [host_port] [protocol][crlf]Host: bhmsd.org[crlf]X-Forward-Host: bhmsd.org[crlf]Connection: Keep-Alive[crlf]CONNECT [host_port] [protocol][crlf][crlf]
